@@ -1,0 +1,1 @@
+This is a purely HTML assignment. I made webpages that show the ingredients and the recipe needed to make a certain dish. Basic HTML skills like using ordered and unordered list, adding images, links and headers were used.
